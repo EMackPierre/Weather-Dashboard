@@ -1,4 +1,4 @@
-Weather Dashboard
+### Weather Dashboard
 
 A weather dashboard page that allows the user to look up a city's weather forecast, displaying the current weather (at the user's local time) and a 5-Day forecast. For the current forecast, the user is given the temperature, humidity, wind speed, and the UV index. For the 5-Day forecast, the user is just given the temperature and the humidity. All of the information is shown with imperial units because the U.S. is still one of only three countries which has not adopted the metric system. The user can allow the web page to gain access to their current location to display their relevant weather forecast as well. The forecasts also include representative weather icons as visual aids to the weather data.
 
@@ -10,9 +10,9 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
-## Acceptance Criteria
+## Usage
 
-
+```
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -26,11 +26,14 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
+```
 
-URL
+## Page Preview
 
 
+* https://emackpierre.github.io/Weather-Dashboard/
 
+* https://github.com/EMackPierre/Weather-Dashboard
 
 - - -
 © 2020 E.M.Pierre
